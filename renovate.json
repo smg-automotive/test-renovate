@@ -8,7 +8,12 @@
         "@types/node",
         "cimg/node"
       ],
-      "matchManagers": ["dockerfile", "npm", "nvm"],
+      "matchManagers": [
+        "dockerfile",
+        "npm",
+        "nvm",
+        "circleci"
+      ],
       "versioning": "node",
       "groupName": "node (lts-only)",
       "schedule": null,
