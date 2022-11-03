@@ -1,1 +1,1 @@
-FROM node:17.0.45
+FROM node:16-alpine
