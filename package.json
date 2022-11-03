@@ -1,0 +1,25 @@
+{
+  "name": "test-renovate",
+  "version": "1.0.0",
+  "description": "Test repository for renovate configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smg-automotive/test-renovate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smg-automotive/test-renovate/issues"
+  },
+  "engines": {
+    "node": "17.0.45"
+  },
+  "homepage": "https://github.com/smg-automotive/test-renovate#readme",
+  "dependencies": {
+    "@types/node": "17.0.45"
+  }
+}
