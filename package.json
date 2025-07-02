@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/smg-automotive/test-renovate#readme",
   "dependencies": {
-    "@types/node": "22.15.34"
+    "@types/node": "22.16.0"
   }
 }
