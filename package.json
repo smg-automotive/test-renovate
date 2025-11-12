@@ -16,10 +16,10 @@
     "url": "https://github.com/smg-automotive/test-renovate/issues"
   },
   "engines": {
-    "node": "22.21.1"
+    "node": "24.11.1"
   },
   "homepage": "https://github.com/smg-automotive/test-renovate#readme",
   "dependencies": {
-    "@types/node": "22.19.1"
+    "@types/node": "24.10.1"
   }
 }
